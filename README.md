@@ -1,6 +1,15 @@
 # Cami
 nu
 
+
+```
+nu-co update \\
+nu-co aws credentials refresh \\
+nu-co auth get-refresh-token \\
+nu-co auth get-access-token \\
+nu-co auth get-access-token --env prod --country co
+```
+
 1. Actualizar consola nu
 ```
 nu-co update
